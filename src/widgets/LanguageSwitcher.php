@@ -1,10 +1,10 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\widgets;
+namespace stoneart\multilingual\widgets;
 
 use Yii;
 use yii\helpers\ArrayHelper;
-use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
+use stoneart\multilingual\helpers\MultilingualHelper;
 
 class LanguageSwitcher extends \yii\base\Widget
 {
@@ -55,8 +55,8 @@ class LanguageSwitcher extends \yii\base\Widget
      * @var array default views of switcher. 
      */
     protected $_reservedViews = [
-        'links' => '@vendor/gerjansteenbeek/yii2-multilingual/src/views/switcher/links',
-        'pills' => '@vendor/gerjansteenbeek/yii2-multilingual/src/views/switcher/pills',
+        'links' => '@vendor/stoneart/yii2-multilingual/src/views/switcher/links',
+        'pills' => '@vendor/stoneart/yii2-multilingual/src/views/switcher/pills',
     ];
 
     public function init()

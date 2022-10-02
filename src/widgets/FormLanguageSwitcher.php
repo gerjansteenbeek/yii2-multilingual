@@ -1,6 +1,6 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\widgets;
+namespace stoneart\multilingual\widgets;
 
 use Yii;
 
@@ -27,7 +27,7 @@ class FormLanguageSwitcher extends \yii\base\Widget
      *
      * @var string default view file
      */
-    private $_defaultView = '@vendor/gerjansteenbeek/yii2-multilingual/src/views/form-switcher/pills';
+    private $_defaultView = '@vendor/stoneart/yii2-multilingual/src/views/form-switcher/pills';
 
     public function init()
     {

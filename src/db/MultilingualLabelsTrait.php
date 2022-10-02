@@ -1,6 +1,6 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\db;
+namespace stoneart\multilingual\db;
 
 /**
  * Multilingual attribute labels trait.

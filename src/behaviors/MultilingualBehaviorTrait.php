@@ -1,9 +1,9 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\behaviors;
+namespace stoneart\multilingual\behaviors;
 
 use yii\base\UnknownPropertyException;
-use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
+use stoneart\multilingual\helpers\MultilingualHelper;
 
 trait MultilingualBehaviorTrait
 {

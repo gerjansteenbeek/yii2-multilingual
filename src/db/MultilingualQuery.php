@@ -1,5 +1,5 @@
 <?php
-namespace gerjansteenbeek\multilingual\db;
+namespace stoneart\multilingual\db;
 
 use yii\db\ActiveQuery;
 

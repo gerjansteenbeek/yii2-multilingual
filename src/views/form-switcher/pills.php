@@ -1,7 +1,7 @@
 <?php
 
 use yii\helpers\Html;
-use gerjansteenbeek\multilingual\assets\FormLanguageSwitcherAsset;
+use stoneart\multilingual\assets\FormLanguageSwitcherAsset;
 
 /* @var $this yii\web\View */
 

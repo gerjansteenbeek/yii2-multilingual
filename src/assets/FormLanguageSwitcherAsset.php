@@ -1,6 +1,6 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\assets;
+namespace stoneart\multilingual\assets;
 
 use yii\web\AssetBundle;
 

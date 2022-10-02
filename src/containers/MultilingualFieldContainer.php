@@ -1,9 +1,9 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\containers;
+namespace stoneart\multilingual\containers;
 
 use yii\base\BaseObject;
-use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
+use stoneart\multilingual\helpers\MultilingualHelper;
 
 class MultilingualFieldContainer extends BaseObject
 {

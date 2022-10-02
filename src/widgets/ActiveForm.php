@@ -1,10 +1,10 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\widgets;
+namespace stoneart\multilingual\widgets;
 
 use Yii;
-use gerjansteenbeek\multilingual\widgets\FormLanguageSwitcher;
-use gerjansteenbeek\multilingual\containers\MultilingualFieldContainer;
+use stoneart\multilingual\widgets\FormLanguageSwitcher;
+use stoneart\multilingual\containers\MultilingualFieldContainer;
 
 /**
  * Multilingual ActiveForm
@@ -14,7 +14,7 @@ class ActiveForm extends \yii\bootstrap\ActiveForm
     /**
      * @var string the default field class name when calling [[field()]] to create a new field.
      */
-    public $fieldClass = 'gerjansteenbeek\multilingual\widgets\ActiveField';
+    public $fieldClass = 'stoneart\multilingual\widgets\ActiveField';
 
     /**
      * 

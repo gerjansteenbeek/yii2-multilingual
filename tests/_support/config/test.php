@@ -25,7 +25,7 @@ return [
             ]
         ],
         'urlManager' => [
-            'class' => gerjansteenbeek\multilingual\web\MultilingualUrlManager::className(),
+            'class' => stoneart\multilingual\web\MultilingualUrlManager::className(),
             'showScriptName' => false,
             'enablePrettyUrl' => true,
             'rules' => [

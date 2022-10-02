@@ -1,10 +1,10 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\widgets;
+namespace stoneart\multilingual\widgets;
 
 use Yii;
-use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
-use gerjansteenbeek\multilingual\assets\FormLanguageSwitcherAsset;
+use stoneart\multilingual\helpers\MultilingualHelper;
+use stoneart\multilingual\assets\FormLanguageSwitcherAsset;
 
 /**
  * @inheritdoc

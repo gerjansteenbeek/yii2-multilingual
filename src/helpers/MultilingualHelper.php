@@ -1,6 +1,6 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\helpers;
+namespace stoneart\multilingual\helpers;
 
 use Yii;
 use yii\helpers\Inflector;

@@ -2,9 +2,9 @@
 
 namespace models;
 
-use gerjansteenbeek\multilingual\behaviors\MultilingualBehavior;
-use gerjansteenbeek\multilingual\db\MultilingualLabelsTrait;
-use gerjansteenbeek\multilingual\db\MultilingualQuery;
+use stoneart\multilingual\behaviors\MultilingualBehavior;
+use stoneart\multilingual\db\MultilingualLabelsTrait;
+use stoneart\multilingual\db\MultilingualQuery;
 
 class PostAdvanced extends \yii\db\ActiveRecord
 {

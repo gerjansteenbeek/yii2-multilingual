@@ -1,12 +1,12 @@
 <?php
 
-namespace gerjansteenbeek\multilingual\web;
+namespace stoneart\multilingual\web;
 
 use Yii;
 use yii\web\UrlManager;
 use yii\web\Application;
 use yii\web\NotFoundHttpException;
-use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
+use stoneart\multilingual\helpers\MultilingualHelper;
 
 class MultilingualUrlManager extends UrlManager
 {
