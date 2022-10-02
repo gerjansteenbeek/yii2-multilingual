@@ -1,10 +1,10 @@
 <?php
 
-namespace gsteenbeek\multilingual\widgets;
+namespace gerjansteenbeek\multilingual\widgets;
 
 use Yii;
-use gsteenbeek\multilingual\helpers\MultilingualHelper;
-use gsteenbeek\multilingual\assets\FormLanguageSwitcherAsset;
+use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
+use gerjansteenbeek\multilingual\assets\FormLanguageSwitcherAsset;
 
 /**
  * @inheritdoc

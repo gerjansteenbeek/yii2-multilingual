@@ -2,9 +2,9 @@
 
 namespace models;
 
-use gsteenbeek\multilingual\behaviors\MultilingualBehavior;
-use gsteenbeek\multilingual\db\MultilingualLabelsTrait;
-use gsteenbeek\multilingual\db\MultilingualQuery;
+use gerjansteenbeek\multilingual\behaviors\MultilingualBehavior;
+use gerjansteenbeek\multilingual\db\MultilingualLabelsTrait;
+use gerjansteenbeek\multilingual\db\MultilingualQuery;
 
 class PostCustomized extends \yii\db\ActiveRecord
 {

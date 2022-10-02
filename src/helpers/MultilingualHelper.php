@@ -1,6 +1,6 @@
 <?php
 
-namespace gsteenbeek\multilingual\helpers;
+namespace gerjansteenbeek\multilingual\helpers;
 
 use Yii;
 use yii\helpers\Inflector;

@@ -1,6 +1,6 @@
 <?php
 
-use gsteenbeek\multilingual\widgets\LanguageSwitcher;
+use gerjansteenbeek\multilingual\widgets\LanguageSwitcher;
 
 /* @var $this yii\web\View */
 

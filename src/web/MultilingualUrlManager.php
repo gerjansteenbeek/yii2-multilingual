@@ -1,12 +1,12 @@
 <?php
 
-namespace gsteenbeek\multilingual\web;
+namespace gerjansteenbeek\multilingual\web;
 
 use Yii;
 use yii\web\UrlManager;
 use yii\web\Application;
 use yii\web\NotFoundHttpException;
-use gsteenbeek\multilingual\helpers\MultilingualHelper;
+use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
 
 class MultilingualUrlManager extends UrlManager
 {

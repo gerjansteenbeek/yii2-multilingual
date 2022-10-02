@@ -1,9 +1,9 @@
 <?php
 
-namespace gsteenbeek\multilingual\containers;
+namespace gerjansteenbeek\multilingual\containers;
 
 use yii\base\BaseObject;
-use gsteenbeek\multilingual\helpers\MultilingualHelper;
+use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
 
 class MultilingualFieldContainer extends BaseObject
 {

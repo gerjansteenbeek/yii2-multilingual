@@ -25,7 +25,7 @@ return [
             ]
         ],
         'urlManager' => [
-            'class' => gsteenbeek\multilingual\web\MultilingualUrlManager::className(),
+            'class' => gerjansteenbeek\multilingual\web\MultilingualUrlManager::className(),
             'showScriptName' => false,
             'enablePrettyUrl' => true,
             'rules' => [

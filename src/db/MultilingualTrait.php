@@ -1,5 +1,5 @@
 <?php
-namespace gsteenbeek\multilingual\db;
+namespace gerjansteenbeek\multilingual\db;
 
 use Yii;
 

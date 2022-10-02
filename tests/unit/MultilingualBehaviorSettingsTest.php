@@ -4,7 +4,7 @@ namespace tests;
 
 use yii\db\Query;
 use fixtures\SettingsFixture;
-use gsteenbeek\multilingual\behaviors\MultilingualBehavior;
+use gerjansteenbeek\multilingual\behaviors\MultilingualBehavior;
 
 class MultilingualBehaviorSettingsTest extends \Codeception\Test\Unit
 {

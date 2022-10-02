@@ -1,5 +1,5 @@
 {
-    "name": "gsteenbeek/yii2-multilingual",
+    "name": "gerjansteenbeek/yii2-multilingual",
     "description": "Yii2 Multilingual Module",
     "keywords": ["yii2", "extension", "yii2-multilingual", "multilingual", "i18n"],
     "type": "yii2-extension",
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "gsteenbeek\\multilingual\\": "src"
+            "gerjansteenbeek\\multilingual\\": "src"
         }
     },
     "require": {

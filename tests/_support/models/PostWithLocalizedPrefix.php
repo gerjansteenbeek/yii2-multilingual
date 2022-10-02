@@ -2,7 +2,7 @@
 
 namespace models;
 
-use gsteenbeek\multilingual\behaviors\MultilingualBehavior;
+use gerjansteenbeek\multilingual\behaviors\MultilingualBehavior;
 
 class PostWithLocalizedPrefix extends PostCustomized
 {

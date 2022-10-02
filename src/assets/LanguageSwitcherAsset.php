@@ -1,6 +1,6 @@
 <?php
 
-namespace gsteenbeek\multilingual\assets;
+namespace gerjansteenbeek\multilingual\assets;
 
 use yii\web\AssetBundle;
 

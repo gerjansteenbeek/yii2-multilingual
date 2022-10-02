@@ -1,9 +1,9 @@
 <?php
 
-namespace gsteenbeek\multilingual\behaviors;
+namespace gerjansteenbeek\multilingual\behaviors;
 
 use yii\base\UnknownPropertyException;
-use gsteenbeek\multilingual\helpers\MultilingualHelper;
+use gerjansteenbeek\multilingual\helpers\MultilingualHelper;
 
 trait MultilingualBehaviorTrait
 {
