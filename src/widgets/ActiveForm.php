@@ -9,7 +9,7 @@ use stoneart\multilingual\containers\MultilingualFieldContainer;
 /**
  * Multilingual ActiveForm
  */
-class ActiveForm extends \yii\bootstrap\ActiveForm
+class ActiveForm extends \yii\bootstrap4\ActiveForm
 {
     /**
      * @var string the default field class name when calling [[field()]] to create a new field.

@@ -9,7 +9,7 @@ use stoneart\multilingual\assets\FormLanguageSwitcherAsset;
 /**
  * @inheritdoc
  */
-class ActiveField extends \yii\bootstrap\ActiveField
+class ActiveField extends \yii\bootstrap4\ActiveField
 {
 
     /**
